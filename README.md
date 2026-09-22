@@ -1,2 +1,10 @@
 # sixseven
-If you have autism, Alzheimer's, or something similar, this is for you.
+If you want to know more about sixseven you need this.
+Build project:
+```bash
+make build
+```
+Get knowledge:
+```bash
+./bin/sixseven learn
+```
